@@ -1,6 +1,6 @@
 ## Hosted Project
 
-[PERSONAL-Resource API Cyclic URL](https://upset-pink-ox.cyclic.app/api)
+[PERSONAL-Resource API Render URL](https://my-user-details.onrender.com)
 
 #### Setup Basic Express Server
 
@@ -26,5 +26,5 @@
 
 #### Source Code Link
 
-- https://github.com/Temidayo-shittu/hng-stage-two
+- https://github.com/Temidayo-shittu/hng-town-hall
 

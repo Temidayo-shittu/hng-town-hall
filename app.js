@@ -14,7 +14,7 @@ app.get('/',(req,res)=>{
     const phone = "08180170660";
     const slack_name = "Temidee";
     const track = "Backend";
-    const github_repo_url = "Temidayo Shittu";
+    const github_repo_url = "https://github.com/Temidayo-shittu/hng-town-hall";
     const status_code = "200";
     res.json({
         message:'PERSONAL RESOURCE SYSTEM RUNNING',
